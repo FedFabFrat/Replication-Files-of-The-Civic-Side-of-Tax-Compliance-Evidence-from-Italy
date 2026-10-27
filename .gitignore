@@ -1,0 +1,5 @@
+# Files created when the package is run (see README)
+data/derived/*
+!data/derived/.gitkeep
+output/logs/
+*.log
